@@ -24,6 +24,11 @@ struct Addressbooks
 };
 
 
+// 1、添加联系人
+void addPerson(Addressbooks * abs)
+{
+
+}
 // 菜单界面
 void showMenu()
 {
